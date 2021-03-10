@@ -1,0 +1,1 @@
+This folder contains images which are used for subjective scoring along with the Matlab App used for experiments. The scores file contains image name along with their respective MOS and standard deviation. A train-test split of the images is provided in saperate csv files which can be used for benchmarking purpose.
